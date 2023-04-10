@@ -15,8 +15,9 @@ Feel free to download and use this app or to contribute to the repository by sub
 - Light mode and dark mode versions
 
 ## Screenshot
+![20230410_195000 (1)](https://user-images.githubusercontent.com/18384920/231014463-b6772939-d9ee-42fa-a36b-db122e432b42.jpg)
 
-- coming soon...
+
 
 ## Requirements
 
